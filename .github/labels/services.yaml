@@ -186,9 +186,7 @@ labels:
   - name: "RPaaS"
     color: "ededed"
     description: ""
-  - name: "RPSaaS"
-    color: "ededed"
-    description: ""
+    aliases: ["RPSaaS"]
   - name: "Sentinel"
     color: "e99695"
     description: ""
